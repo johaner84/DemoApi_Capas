@@ -1,0 +1,15 @@
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\jerosario\Desktop\ApiCapas\DemoCapasApi\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
